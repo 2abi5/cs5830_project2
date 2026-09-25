@@ -4,7 +4,7 @@ CS 5830 course project analyzing Austin Police Department reported-crime records
 
 ## Contents
 - `project2.ipynb` — full analysis notebook (data cleaning, descriptive statistics, and five statistical analyses: two chi-square tests, a Mann-Whitney U test, a Welch's t-test, and a Pearson correlation with scatterplot).
-- `austin_crime.csv` — the dataset ([Kaggle: Austin Crime](https://www.kaggle.com/datasets/jboysen/austin-crime)). Not committed to git.
+- `austin_crime.csv` — the dataset ([Kaggle: Austin Crime](https://www.kaggle.com/datasets/jboysen/austin-crime)).
 - `figures/` — PNGs of every chart, written by the notebook.
 
 
